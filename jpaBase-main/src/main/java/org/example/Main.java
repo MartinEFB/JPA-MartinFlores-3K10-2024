@@ -3,7 +3,6 @@ package org.example;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
-import lombok.*;
 
 public class Main {
     public static void main(String[] args) {
